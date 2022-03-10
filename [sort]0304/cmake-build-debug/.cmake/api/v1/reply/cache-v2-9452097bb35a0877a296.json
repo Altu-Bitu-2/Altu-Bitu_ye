@@ -11,7 +11,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/CLion/0304/cmake-build-debug"
+			"value" : "C:/GitHub/Altu-Bitu_ye/[sort]0304/cmake-build-debug"
 		},
 		{
 			"name" : "0304_IS_TOP_LEVEL",
@@ -35,7 +35,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/CLion/0304"
+			"value" : "C:/GitHub/Altu-Bitu_ye/[sort]0304"
 		},
 		{
 			"name" : "CMAKE_ADDR2LINE",
@@ -91,7 +91,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/CLion/0304/cmake-build-debug"
+			"value" : "c:/GitHub/Altu-Bitu_ye/[sort]0304/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -659,7 +659,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/CLion/0304"
+			"value" : "C:/GitHub/Altu-Bitu_ye/[sort]0304"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
