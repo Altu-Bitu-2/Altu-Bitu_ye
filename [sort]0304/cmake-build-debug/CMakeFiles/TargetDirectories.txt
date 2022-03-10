@@ -1,3 +1,0 @@
-C:/GitHub/Altu-Bitu_ye/[sort]0304/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/GitHub/Altu-Bitu_ye/[sort]0304/cmake-build-debug/CMakeFiles/0304.dir
-C:/GitHub/Altu-Bitu_ye/[sort]0304/cmake-build-debug/CMakeFiles/rebuild_cache.dir
